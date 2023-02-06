@@ -1,0 +1,34 @@
+.comment-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0;
+    li {
+        color: rgba(69, 65, 65, 0.89);
+        padding: 5px;    
+        display: flex;
+        align-items: center;
+        width: 100%;
+        // flex-wrap: wrap;
+        img{
+            border-radius: 3px;
+            margin-right: 10px;
+        }
+    } 
+}
+.filteredComments{
+    width: fit-content;
+    padding: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.13);
+    border-radius: 0 0 5px 5px;
+    background-color: white;
+    .filter{
+        width: 300px;
+        margin: 10px auto;
+        padding: 8px 10px;
+    }
+}
+
+
+

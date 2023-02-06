@@ -1,0 +1,44 @@
+5.2.2023, 13:05:12 - INFO - Server is running on port: 3030 
+5.2.2023, 15:21:05 - INFO - Server is running on port: 3030 
+5.2.2023, 15:21:18 - INFO - Server is running on port: 3030 
+5.2.2023, 15:21:30 - INFO - Server is running on port: 3030 
+5.2.2023, 20:47:23 - INFO - Server is running on port: 3030 
+5.2.2023, 20:53:43 - INFO - Server is running on port: 3030 
+5.2.2023, 20:53:45 - INFO - Server is running on port: 3030 
+5.2.2023, 20:53:50 - INFO - Server is running on port: 3030 
+5.2.2023, 20:53:55 - INFO - Server is running on port: 3030 
+5.2.2023, 20:54:06 - INFO - Server is running on port: 3030 
+5.2.2023, 20:54:21 - INFO - Server is running on port: 3030 
+5.2.2023, 21:02:05 - INFO - Server is running on port: 3030 
+5.2.2023, 21:20:36 - INFO - Server is running on port: 3030 
+5.2.2023, 21:20:38 - INFO - Server is running on port: 3030 
+5.2.2023, 21:20:40 - INFO - Server is running on port: 3030 
+5.2.2023, 21:21:10 - INFO - Server is running on port: 3030 
+5.2.2023, 21:21:18 - INFO - Server is running on port: 3030 
+5.2.2023, 21:23:56 - INFO - Server is running on port: 3030 
+5.2.2023, 21:25:07 - INFO - Server is running on port: 3030 
+5.2.2023, 21:25:12 - INFO - Server is running on port: 3030 
+5.2.2023, 21:25:14 - INFO - Server is running on port: 3030 
+5.2.2023, 21:25:16 - INFO - Server is running on port: 3030 
+5.2.2023, 21:29:25 - INFO - Server is running on port: 3030 
+5.2.2023, 21:29:27 - INFO - Server is running on port: 3030 
+5.2.2023, 21:29:28 - INFO - Server is running on port: 3030 
+5.2.2023, 21:29:33 - INFO - Server is running on port: 3030 
+5.2.2023, 21:30:20 - INFO - Server is running on port: 3030 
+5.2.2023, 21:30:40 - INFO - Server is running on port: 3030 
+5.2.2023, 21:30:43 - INFO - Server is running on port: 3030 
+5.2.2023, 21:30:59 - INFO - Server is running on port: 3030 
+5.2.2023, 21:31:03 - INFO - Server is running on port: 3030 
+5.2.2023, 21:31:05 - INFO - Server is running on port: 3030 
+5.2.2023, 21:32:29 - INFO - Server is running on port: 3030 
+5.2.2023, 21:33:15 - INFO - Server is running on port: 3030 
+6.2.2023, 12:30:43 - INFO - Server is running on port: 3030 
+6.2.2023, 12:41:22 - INFO - Server is running on port: 3030 
+6.2.2023, 12:42:03 - ERROR - Cannot Connect to DB | MongoServerSelectionError: connection <monitor> to 3.122.146.161:27017 closed 
+6.2.2023, 12:42:03 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: connection <monitor> to 3.122.146.161:27017 closed 
+6.2.2023, 12:42:03 - ERROR - cannot insert msg | MongoServerSelectionError: connection <monitor> to 3.122.146.161:27017 closed 
+6.2.2023, 12:42:03 - ERROR - Failed to add msg | MongoServerSelectionError: connection <monitor> to 3.122.146.161:27017 closed 
+6.2.2023, 12:42:05 - ERROR - Cannot Connect to DB | MongoServerSelectionError: connection <monitor> to 18.185.254.245:27017 closed 
+6.2.2023, 12:42:05 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: connection <monitor> to 18.185.254.245:27017 closed 
+6.2.2023, 12:42:05 - ERROR - cannot insert msg | MongoServerSelectionError: connection <monitor> to 18.185.254.245:27017 closed 
+6.2.2023, 12:42:05 - ERROR - Failed to add msg | MongoServerSelectionError: connection <monitor> to 18.185.254.245:27017 closed 

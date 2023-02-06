@@ -1,0 +1,29 @@
+
+form > * {
+    display: block;
+    width: 300px;
+    margin: 10px auto;
+}
+
+form{
+    background-color: #efefef;
+    width: fit-content;
+    padding: 20px;
+}
+
+button {
+    border:0;
+    background-color: #45a9de;
+    border-radius: 3px;
+    color:whitesmoke;
+    padding: 5px 10px;
+    width: fit-content;
+    margin: 5px auto;
+    cursor: pointer;
+}
+
+input{
+    border: 1px solid rgba(128, 128, 128, 0.724);
+    border-radius: 2px;
+    padding: 8px 10px;
+}
